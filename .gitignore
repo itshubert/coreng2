@@ -229,3 +229,5 @@ node_modules/*
 **/wwwroot/typings/*
 **/wwwroot/lib/*
 **/wwwroot/**/*.min.*
+**/wwwroot/app/**/*.js
+**/wwwroot/app/**/*.map
