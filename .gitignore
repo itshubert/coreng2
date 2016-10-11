@@ -226,6 +226,6 @@ Mercedes.Forms.Web/assets/src/css/default.css
 Mercedes.Forms.Admin/App_Data/file.txt
 Mercedes.Forms.Web/App_Data/file.txt
 node_modules/*
-wwwroot/typings/*
-wwwroot/lib/*
-wwwroot/**/*.min*
+**/wwwroot/typings/*
+**/wwwroot/lib/*
+**/wwwroot/**/*.min.*
